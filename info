@@ -1,0 +1,14 @@
+Itamae
+
+* 概要
+- サーバ構成管理ツール
+- Ruby
+- 軽量
+
+* 公式サイト
+- http://itamae.kitchen/
+
+* 全体像
+- Ruby(host側に必要)
+- itamae(host側に必要)
+- クライアントにはRuby,Itamaeは必要ない
